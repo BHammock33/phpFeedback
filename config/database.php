@@ -12,3 +12,5 @@ if($conn->connect_error){
 }
 
 
+
+//testing db on laptop
